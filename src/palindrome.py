@@ -10,3 +10,4 @@ if __name__ == "__main__":
         print(f'"{palabra}" es un palíndromo')
     else:
         print(f'"{palabra}" no es un palíndromo')
+
